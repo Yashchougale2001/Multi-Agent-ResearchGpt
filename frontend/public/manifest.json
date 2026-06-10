@@ -1,0 +1,16 @@
+{
+  "short_name": "Research AI",
+  "name": "Multi-Agent Research Assistant",
+  "description": "AI-powered research assistant using specialized agents",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3B82F6",
+  "background_color": "#ffffff"
+}
