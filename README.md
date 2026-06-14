@@ -55,7 +55,7 @@ A production-ready AI-powered research assistant built with **LangGraph**, **Lan
 #### 1. Clone Repository
 
 ````bash
-git clone https://github.com/yourusername/multi-agent-research-assistant.git
+git clone
 cd multi-agent-research-assistant
 2. Backend Setup
 Bash
@@ -151,10 +151,10 @@ This project uses **Groq API** with Llama 3 models - completely FREE!
 
 ### Available Free Models
 
-- **llama-3.1-70b-versatile** (Recommended - Fast & Powerful)
+- **llama-3.3-70b-versatile** (Recommended - Fast & Powerful)
 - **llama-3.1-8b-instant** (Ultra-fast responses)
 - **mixtral-8x7b-32768** (Long context window)
-- **gemma-7b-it** (Google's efficient model)
+- **gemma-7b-it** (Googles efficient model)
 
 ### Groq Limits (Free Tier)
 
@@ -315,7 +315,7 @@ Open Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👥 Authors
-Your Name - Initial work - YourGithub
+Yash chougale - Initial work - https://github.com/Yashchougale2001
 🙏 Acknowledgments
 OpenAI for GPT-4
 LangChain team
@@ -324,7 +324,7 @@ FastAPI community
 📞 Support
 Documentation: [Link to docs]
 Issues: GitHub Issues
-Email: your.email@example.com
+Email: yashachougale2001@gmail.com
 🔮 Roadmap
  Add authentication (JWT)
  Implement user sessions
